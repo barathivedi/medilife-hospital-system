@@ -1,0 +1,4 @@
+Doctor ID | Name | Specialization | Department
+D001 | Dr. Suresh Kumar | Cardiologist | Cardiology
+D002 | Dr. Anitha Rao | General Physician | General Medicine
+D003 | Dr. Karthik Raj | Orthopedic Surgeon | Orthopedics
