@@ -1,0 +1,4 @@
+Medicine ID | Medicine Name | Type | Stock
+M001 | Paracetamol | Tablet | 500
+M002 | Amoxicillin | Capsule | 200
+M003 | Ibuprofen | Tablet | 300
