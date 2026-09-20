@@ -1,0 +1,4 @@
+Bill ID | Patient ID | Patient Name | Amount | Payment Status
+B001 | P001 | Ravi Kumar | 2500 | Paid
+B002 | P002 | Priya Sharma | 4800 | Pending
+B003 | P003 | Arun Kumar | 3200 | Paid
